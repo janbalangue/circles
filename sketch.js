@@ -15,7 +15,7 @@ function setup() {
 
 function draw() {
   background(60, 178, 240);
-  stroke(0);
+  stroke(210);
   x = r * cos(angle);
   y = r * sin(angle);
   
@@ -36,7 +36,7 @@ function draw() {
     rotate(-shiftingAngle[i]);
     line(-r, 0, r, 0);
     line(0, -r, 0, r);
-    fill(250);
+    fill(255);
     ellipse(x2[i], 0, 20, 20);
     ellipse(0, y2[i], 20, 20);
     pop();
