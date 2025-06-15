@@ -2,5 +2,6 @@
 
 A rotating circles animation in P5.js.
 
-https://github.com/user-attachments/assets/4400dfc3-d0fe-4ff7-bf94-aa6763acda73
+
+https://github.com/user-attachments/assets/ace4a0a2-ad02-4b01-b4e4-ec4fd5bfd70a
 
